@@ -5,6 +5,20 @@
 > **`Updated` Silva Spark MD with Latest Features**
 
 ---
+### 🌟 Connect With Me
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
+  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
+  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
+  <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
+</p>
+
+---
+# Support Silva Tech Inc ❤️
+
+[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+
+---
 
 <p align="center">
   <a href="https://github.com/SilvaTechB">
@@ -14,7 +28,7 @@
 
 --- 
 <p align="center">
-<a><img src='https://i.imgur.com/PEZ5QL2.jpeg'/></a>
+<a><img src='./sylivanus/SilvaSpark.png'/></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -32,12 +46,12 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/SilvaTechB/Silva-Spark-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://github.com/SilvaTechB/silva-spark-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SilvaSparkMD&label=VIEWS&style=flat-square&color=purple" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB/Silva-Spark-MD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/SilvaTechB/silva-spark-md"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -46,13 +60,13 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/SilvaTechB/Silva-Spark-MD/fork"><img title="Silva Spark MD" src="https://img.shields.io/badge/FORK-Silva%20Spark%20MD-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/SilvaTechB/silva-spark-md/fork"><img title="silva-spark-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
 You will need a session ID to run Silva Spark MD. Click the button below to obtain your session ID:
 
-<a href='https://creds.silvatechinc.my.id' target="_blank">
+<a href='https://silva-session-selector.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -65,12 +79,12 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 <h4 align="center">1. Heroku</h4>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/Silva-Spark-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="center">2. Koyeb</h4>
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/Silva-Spark-MD&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/silva-spark-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="center">3. Railway</h4>
@@ -99,10 +113,10 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/Silva-Spark-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/Silva-Spark-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/Silva-Spark-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/Silva-Spark-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/Silva-Spark-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/Silva-Spark-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/SilvaTechB/Silva-Spark-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/SilvaTechB/silva-spark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/SilvaTechB/silva-spark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/SilvaTechB/silva-spark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
+<a href="https://github.com/SilvaTechB/silva-spark-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
